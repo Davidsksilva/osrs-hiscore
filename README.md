@@ -1,6 +1,6 @@
 # OSRS Hiscore Fetcher
 
-Application written in Go to fetch a player's skills, using the oficial osrs api.
+Application written in Go to fetch a player's skills, using the oficial Runescape api.
 
 ## Getting Started
 
